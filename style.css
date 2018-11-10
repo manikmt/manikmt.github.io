@@ -61,12 +61,6 @@ body{
 .content_all_weidth.clear {}
 
 .content_top.clear {
-	position: absolute;
-	margin-top: -187.5px;
-	display: block;
-	box-shadow: 0px 0px 31px -20px;
-	width: 980px;
-	border-radius: 15px;
     height: 385px;
     position: absolute;
     margin-top: -187.5px;
