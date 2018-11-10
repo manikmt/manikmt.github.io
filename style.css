@@ -61,7 +61,6 @@ body{
 .content_all_weidth.clear {}
 
 .content_top.clear {
-	height: 370px;
 	position: absolute;
 	margin-top: -187.5px;
 	display: block;
@@ -80,13 +79,8 @@ body{
 	background: #E7E7E7;
 }
 .content_post_allsection.clear {
-	margin-left: 30px;
-	margin-top: 30px;
-	width: 525px;
 }
 .content_post.clear {
-	background: #fff;
-	height: 375px;
 }
 .content_post_top.clear {
 	border-bottom: 2px solid #EAEAEA;
@@ -137,8 +131,6 @@ body{
 }
 
 .content_post_icon.clear {
-	background: #27ae60;
-	height: 80px;
 }
 .content_post_icon.clear a{}
 .content_post_icon.clear a img {
