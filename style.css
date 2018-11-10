@@ -61,6 +61,7 @@ body{
 .content_all_weidth.clear {}
 
 .content_top.clear {
+    height: 400px;
     position: absolute;
     margin-top: -187.5px;
     display: block;
@@ -87,6 +88,7 @@ body{
 .content_post.clear {
     background: #fff;
     height: 400px;
+	width: 600px;
 }
 .content_post_top.clear {
 	border-bottom: 2px solid #EAEAEA;
